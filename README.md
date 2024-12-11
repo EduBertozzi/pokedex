@@ -1,0 +1,1 @@
+Desenvolvi uma Pokédex com diversas funcionalidades em grafos (Dijkstra), árvores binárias e algortimos geométricos. Ela também possui um mapa de Pokémons e Cidades e balancea as árvores após a inserção. 
